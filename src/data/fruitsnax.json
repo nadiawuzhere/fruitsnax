@@ -1,0 +1,47 @@
+[{
+  "fruit": "banana",
+  "color": "yellow",
+  "flavor": "banana flavor",
+  "rating": "5"
+},{
+  "fruit": "strawberry",
+  "color": "pink",
+  "flavor": "strawb",
+  "rating": "4"
+},{
+  "fruit": "pineapple",
+  "color": "orange",
+  "flavor": "pina colada",
+  "rating": "3"
+},{
+  "fruit": "blue rasp",
+  "color": "blue",
+  "flavor": "raspberry?",
+  "rating": "5"
+},{
+  "fruit": "grape",
+  "color": "purple",
+  "flavor": "purple",
+  "rating": "3"
+},{
+  "fruit": "watermelon",
+  "color": "pink",
+  "flavor": "summer",
+  "rating": "4"
+},{
+  "fruit": "blueberry",
+  "color": "blue",
+  "flavor": "blue",
+  "rating": "3"
+},{
+  "fruit": "pomegranate",
+  "color": "red",
+  "flavor": "sour",
+  "rating": "5"
+},{
+  "fruit": "kiwi",
+  "color": "green",
+  "flavor": "island living",
+  "rating": "4"
+}
+]
